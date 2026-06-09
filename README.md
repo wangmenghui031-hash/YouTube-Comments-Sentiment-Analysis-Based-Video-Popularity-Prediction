@@ -205,3 +205,24 @@ print("Accuracy:", accuracy_score(y_test, pred))
 Ⅶ. Conclusion
 
 This project successfully applied NLP sentiment analysis and machine learning to predict YouTube video popularity. We classified comment sentiment using a pre‑trained BERT model and trained a Random Forest model for popularity prediction. The results show that comment sentiment has a meaningful relationship with video performance. This research demonstrates the practical value of AI in social media data analysis and provides a foundation for future large‑scale studies.
+## Visualizations
+
+### Figure 1. Overall Project Workflow
+
+![Workflow](images/workflow.png)
+
+### Figure 2. Sentiment Distribution
+
+![Distribution](images/sentiment_distribution.png)
+
+### Figure 3. Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Figure 4. Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### Figure 5. Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
