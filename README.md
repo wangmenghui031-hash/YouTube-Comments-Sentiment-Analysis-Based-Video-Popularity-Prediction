@@ -226,3 +226,19 @@ This project successfully applied NLP sentiment analysis and machine learning to
 ### Figure 5. Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
+# Table of Contents
+
+1. Project Overview
+2. Motivation
+3. Objectives
+4. Dataset Description
+5. Data Preprocessing
+6. Methodology
+7. Model Workflow
+8. Experimental Results
+9. Visualizations
+10. Limitations
+11. Future Work
+12. Conclusion
+13. Project Structure
+14. References
